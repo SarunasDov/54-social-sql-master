@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SarunasDov/54-social-sql.git"
+    "url": "git+https://github.com/SarunasDov/54-social-sql-master.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SarunasDov/54-social-sql.git"
+    "url": "https://github.com/SarunasDov/54-social-sql-master.git"
   },
-  "homepage": "https://github.com/SarunasDov/54-social-sql.git"
+  "homepage": "https://github.com/SarunasDov/54-social-sql-master.git"
 }
